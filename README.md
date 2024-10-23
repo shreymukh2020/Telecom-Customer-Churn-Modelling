@@ -5,3 +5,5 @@ Telecom Customer Churn prediction modelling using the IBM Comcast Dataset at Kag
 ![image](https://github.com/shreymukh2020/Telecom-Customer-Churn-Modelling/blob/main/Telecom%20Customer%20churn.jpg)
 
 ![image](https://github.com/shreymukh2020/Telecom-Customer-Churn-Modelling/blob/main/Model%20fitting.jpg)
+
+![image](https://github.com/shreymukh2020/Telecom-Customer-Churn-Modelling/blob/main/Randomforest.jpg)
